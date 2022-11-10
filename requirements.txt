@@ -1,0 +1,17 @@
+confluent_kafka
+tensorflow
+tensorflow_hub
+joblib
+scikit-learn
+flask
+flask-restful
+Flask-Login
+Flask-Session
+Flask_SocketIO
+itsdangerous
+Jinja2
+MarkupSafe
+python-engineio
+python-socketio
+six
+Werkzeug
