@@ -25,4 +25,4 @@ jobs:
 workflows:
   workflow:
     jobs:
-      - say-hello
+      - build
