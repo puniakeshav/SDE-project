@@ -23,7 +23,8 @@ jobs:
 workflows:
   say-hello-workflow:
     jobs:
-      - say-hello
+      - cd 'SDE fron-end'
+      - npm install
 
 This code is licensed from CircleCI to the user under the MIT license.
 See here for details: https://circleci.com/developer/orbs/licensing
